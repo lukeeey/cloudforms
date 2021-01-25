@@ -17,6 +17,7 @@ public void sendForm(Form form) {
 
     player.dataPacket(modalFormRequestPacket);
     forms.put(formId, form);
+}
 
 
 // EventListener
