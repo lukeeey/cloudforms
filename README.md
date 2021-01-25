@@ -39,6 +39,12 @@ public void onPacketReceive(DataPacketReceiveEvent event) {
 ### Including CloudForms in your project
 For now, the only way is to use JitPack:
 ```xml
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+```
+```xml
 <dependency>
     <groupId>io.github.lukeeey.cloudforms</groupId>
     <artifactId>cloudforms</artifactId>
