@@ -1,4 +1,7 @@
 # CloudForms
+![CloudForms](https://github.com/lukeeey/CloudForms/workflows/CloudForms/badge.svg)
+[![Discord](https://img.shields.io/discord/803794932820082739.svg?color=%237289da&label=Discord)](https://discord.gg/nYYcr5DYx6)  
+
 A callback-based form library for Cloudburst, Nukkit and any other project you may need it for.
 
 ### Note
