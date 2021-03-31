@@ -49,8 +49,8 @@ For now, the only way is to use JitPack:
 ```
 ```xml
 <dependency>
-    <groupId>io.github.lukeeey.cloudforms</groupId>
+    <groupId>com.github.lukeeey</groupId>
     <artifactId>cloudforms</artifactId>
-    <version>~SNAPSHOT</version>
+    <version>e74c525d22</version>
 </dependency>
 ```
